@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "music promo",
-    "currentPage": "page6.html",
+    "currentPage": "page4.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -233,7 +233,7 @@
           },
           "title": "WHY MUSIC?",
           "text": "<p>Aside from the fact that playing a musical instrument is fun, stress relief is an advantage to taking music class. Studies show that playing an instrument lowers down heart rate and blood pressure, leading to lower stress hormone cortisol, thus making us relaxed. Many people get caught up with school assignments and projects that they forget to relax. Playing instruments will not only relieve tension from your back, but also give a variety of benefits.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -1228,7 +1228,7 @@
           },
           "title": "WELCOME TO THE SOUND OF MUSIC",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b style=\"font-style: italic;\">The Sound of Music </b>is the second musical Springfield has ever done. Held in the 3rd of March, 2018, it was also to celebrate our school's 20th anniversary, hence various of other bits of acts were also performed, such as Korean dances, a tribute to Beyonce, and so on.</p>",
+          "text": "<p><b><i>The Sound of Music </i></b>is the second musical Springfield has ever done. Held in the 3rd of March, 2018, it was also to celebrate our school's 20th anniversary, hence various of other bits of acts were also performed, such as Korean dances, a tribute to Beyonce, and so on.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
