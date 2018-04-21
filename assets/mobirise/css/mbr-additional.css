@@ -60,7 +60,10 @@
   color: #fff;
 }
 #contacts1-8 STRONG {
-  color: #cccccc;
+  color: #000000;
+}
+#contacts1-8 P {
+  color: #000000;
 }
 
 
@@ -113,7 +116,10 @@
   color: #000000;
 }
 #contacts1-b STRONG {
-  color: #cccccc;
+  color: #000000;
+}
+#contacts1-b P {
+  color: #000000;
 }
 
 
@@ -142,8 +148,13 @@
   color: #000000;
 }
 #contacts1-i STRONG {
-  color: #cccccc;
+  color: #000000;
 }
+#contacts1-i P {
+  color: #000000;
+}
+
+
 
 
 #dropdown-menu-k .hide-buttons [data-button] {
@@ -170,8 +181,49 @@
 #dropdown-menu-k .navbar-toggler {
   color: #000000;
 }
+#msg-box3-x .mbr-header .mbr-header__text {
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 30px;
+}
+#msg-box3-x .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-x .mbr-article P {
+  color: #000000;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
+  text-align: center;
+}
+#msg-box4-z .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-z .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-z .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-z .mbr-article P {
+  color: #000000;
+}
+#msg-box4-10 .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-10 .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-10 .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-10 .mbr-article P {
+  color: #000000;
+}
 #contacts1-l STRONG {
-  color: #cccccc;
+  color: #000000;
+}
+#contacts1-l P {
+  color: #000000;
 }
 
 
@@ -245,5 +297,8 @@
   font-size: 18px;
 }
 #contacts1-n STRONG {
-  color: #cccccc;
+  color: #000000;
+}
+#contacts1-n P {
+  color: #000000;
 }
