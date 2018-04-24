@@ -233,6 +233,30 @@
 #msg-box4-10 .mbr-article P {
   color: #000000;
 }
+#msg-box4-1m .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1m .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1m .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1m .mbr-article P {
+  color: #000000;
+}
+#msg-box4-1n .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-1n .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-1n .mbr-article {
+  color: #ffffff;
+}
+#msg-box4-1n .mbr-article P {
+  color: #000000;
+}
 #contacts1-l STRONG {
   color: #000000;
 }
