@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "music promo",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -233,7 +233,7 @@
           },
           "title": "WHY MUSIC?",
           "text": "<p>Aside from the fact that playing a musical instrument is fun, stress relief is an advantage to taking music class. Studies show that playing an instrument lowers down heart rate and blood pressure, leading to lower stress hormone cortisol, thus making us relaxed. Many people get caught up with school assignments and projects that they forget to relax. Playing instruments will not only relieve tension from your back, but also give a variety of benefits.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"page5.html\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -1741,7 +1741,7 @@
           }
         },
         {
-          "text": "<p>Aside from the fact that playing a musical instrument is fun, stress relief is an advantage to taking music class. Studies show that playing an instrument lowers down heart rate and blood pressure, leading to lower stress hormone cortisol, thus making us relaxed. Many people get caught up with school assignments and projects that they forget to relax. Playing instruments will not only relieve tension from your back, but also give a variety of benefits.</p><p><br></p><p>Furthermore, taking music classes will-oddly enough-make you smarter. In a study conducted by the University of South Florida, adults of age 60-85 were given piano lessons and were concluded to have improved memory, verbal fluency, information processing skills, hand-eye coordination skills and more cognitive functions six months later. As for students, ones who took music class earned better SAT scores than those who didn’t.</p><p><br></p><p>Another advantage to learning music is emotional development. Listening to music enables you to have more empathy towards people, which makes it easier for you to connect to others. You can also always break the ice by talking about your favorite songs, artists and bands.</p><p><br></p><p>Moreover, it’s been proven that playing instruments foster creativity. Doing the same routine everyday results in the loss of creativity. Music lets you “look beyond what currently exists and express yourself in a new way,” according to Paul Allen, co-founder of Microsoft. Enhancing creativity allows you to think outside the box and be more imaginative. This will then prepare you for future jobs as companies like employees with fresh, new ideas and more artistic careers are open in today’s economy.</p><p><br></p>",
+          "text": "<p>Aside from the fact that playing a musical instrument is fun, stress relief is one reason why you should join music class. Studies show that playing an instrument lowers down heart rate and blood pressure, leading to lower stress hormone cortisol, thus making us relaxed. Many people get caught up with school assignments and projects that they forget to relax. Playing instruments will not only relieve tension from your back, but also give a variety of benefits.</p><p><br></p><p>Surprisingly, learning music will also make you smarter. In a study conducted by the University of South Florida, adults of age 60-85 were given piano lessons and were concluded to have improved memory, verbal fluency, information processing skills, hand-eye coordination skills and more cognitive functions six months later. As for students, ones who took music class earned better SAT scores than those who didn’t. Worried you aren’t smart enough? Join music class!</p><p><br></p><p>Music has also been shown to grow your emotional development. Listening to music enables you to have more empathy towards people, making it easier for you to connect to others and meet lots of friends! You can always break the ice by talking about your favorite songs, artists and bands. What’s better than having friends with the same music taste as yours? Nothing.</p><p><br></p><p>It’s been proven that playing instruments improves creativity. Doing the same routine everyday is boring. Go to school. Go home. Repeat. It legitimately makes you lose touch of creativity. Music lets you “look beyond what currently exists and express yourself in a new way,” according to Paul Allen, co-founder of Microsoft. Enhancing creativity helps you to think outside the box and be more imaginative. Nobody likes a square!</p><p><br></p><p>So, what are you waiting for? Join music class now!</p><p><br></p><p><br></p>",
           "_tags": [
             "Theme"
           ],
