@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "music promo",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -10,7 +10,7 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.6.5",
-    "uniqCompNum": 63,
+    "uniqCompNum": 64,
     "versionPublish": "4.6.5",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -107,7 +107,7 @@
             "overlayOpacity": 0.5
           },
           "title": "MUSIC ELECTIVE",
-          "text": "A chance to discover and explore the world of music studies, ranging from musical notations to intrumentation to the musical world in both practical, and theoretical ways.&nbsp;",
+          "text": "A chance to discover and explore the world of music studies, ranging from musical notations to intrumentation to the musical world in both practical, and theoretical ways.&nbsp;<br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger animated fadeInUp delay\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"https://mobirise.com\">FOR MAC</a>",
           "_tags": [
             "Theme"
@@ -149,8 +149,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": 50,
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -240,6 +240,21 @@
           "meta": "By John Smith posted July 30, 2015",
           "_name": "content5",
           "_anchor": "content5-6"
+        },
+        {
+          "text": "<p><b>WEBSITE BUILT BY&nbsp;</b></p><p>Angeline Janice<b> (10B)</b></p><p>Ashley Tebiono <b>(10A)</b></p><p>Auriel Shinetau<b> (10B)</b></p><p>Joey Chance<b> (10B)</b></p><p>Tracy Sastraatmaja<b> (10B)</b></p><p>Tara Natalia <b>(10B)</b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-1r",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Source Sans Pro', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            }
+          }
         },
         {
           "_params": {

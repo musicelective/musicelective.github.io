@@ -9,6 +9,7 @@
 
 
 
+
 #dropdown-menu-3 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -62,6 +63,10 @@
   color: #fff;
 }
 #content5-6 .mbr-article P {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#content1-1r P {
+  color: #000000;
   font-family: 'Source Sans Pro', sans-serif;
 }
 #contacts1-8 STRONG {
