@@ -134,6 +134,8 @@
 
 
 
+
+
 #dropdown-menu-h .hide-buttons [data-button] {
   display: none !important;
 }
@@ -156,6 +158,21 @@
   background: #f5f5f5;
 }
 #dropdown-menu-h .navbar-toggler {
+  color: #000000;
+}
+#msg-box3-1p .mbr-header .mbr-header__text {
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#msg-box3-1p .mbr-header .mbr-header__subtext {
+  text-align: center;
+}
+#msg-box3-1p .mbr-article P {
+  text-align: center;
+  color: #000000;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+#content1-1q P {
   color: #000000;
 }
 #contacts1-i STRONG {
