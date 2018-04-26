@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "music promo",
-    "currentPage": "index.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -854,7 +854,7 @@
           },
           "title": "MAMMA MIA!",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><i><b>Mamma Mia!</b></i> was Springfield's first ever musical performance. Held in Balai Kartini,&nbsp;</p>",
+          "text": "<p><i><b>Mamma Mia!</b></i> was Springfield's first ever musical performance. Held in Balai Kartini, the show was performed on the 11th of February, 2017.</p>",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>",
           "_tags": [
             "Theme"
@@ -909,7 +909,7 @@
             }
           },
           "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Our Mamma Mia! musical was directed by Veda Alexandra, and was produced by Shefylin Widjaja.&nbsp;</p>",
+          "text": "<p>Our Mamma Mia! musical was directed by Veda Alexandra, with Assistent Director Maureen Trishan, and was produced by Shefylin Widjaja, who was assisted by Pawitra.&nbsp;</p>",
           "_tags": [
             "Theme"
           ],
@@ -980,7 +980,7 @@
             }
           },
           "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>The main role of Sophie was played by Michelle Ignacia Lay, along with Rosie's two best friends,&nbsp;</p><p><br></p><p>O</p>",
+          "text": "<p>The main role of Sophie was played by Michelle Ignacia Lay, along with Rosie's two best friends, Ali, who was played by Angelica Chandra, and Lisa, who was played by Audrey Gunawan.</p>",
           "_tags": [
             "Theme"
           ],
@@ -1051,7 +1051,7 @@
             }
           },
           "title": "",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "text": "The role of Donna was played by our very talented alumni Shannon Tamara, who was accompanied by Maureen Trishan, who played as Tanya, and Aldeenea Cristabel, who played as Rosie.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -1063,7 +1063,7 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-article P": {
               "color": "#000000"
@@ -1122,7 +1122,7 @@
             }
           },
           "title": "DRAG AND DROP WEBSITE BUILDER",
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.</p>",
+          "text": "The show was a complete success. The majority of Springfield students, as well as their parents, took the time to spend their evenings together and watch what the casts and crew of <b><i>Mamma Mia!</i></b> had to offer. There were also students from other schools who came and watched.",
           "_tags": [
             "Theme"
           ],
@@ -1134,7 +1134,7 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".mbr-article P": {
               "color": "#000000"
